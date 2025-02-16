@@ -3,3 +3,5 @@
 palabra = str(input("introduce una palabra para que se repita 10 veces: "))
 for i in range (10):
     print(palabra)
+
+
