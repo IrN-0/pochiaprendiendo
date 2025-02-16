@@ -5,5 +5,5 @@ num = int(input("Introduce un numero entero mayor que 0: "))
 if num <= 0:
     print("tú que eres un graciosillo no?? mayor que 0.")
 
-for i in range(1,num+1):
+
 
